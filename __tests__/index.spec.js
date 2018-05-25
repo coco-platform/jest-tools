@@ -1,12 +1,12 @@
 /**
- * @description - suits example
+ * @description - jest-tools suits
  * @author - huang.jian <hjj491229492@hotmail.com>
  */
 
-const sum = require('../lib');
+const demo = require('./__fixture__/demo.jpg');
 
-describe('simple suits', () => {
-  it('simple case', () => {
-    expect(sum(1, 2, 3)).toEqual(6);
+describe('jest-tools suits', () => {
+  it('should transform status asset', () => {
+    expect(demo).toMatchSnapshot();
   });
 });

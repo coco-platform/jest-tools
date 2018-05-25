@@ -1,4 +1,7 @@
 module.exports = {
+  transform: {
+    '\\.(jpg|jpeg|png|giff|webp|svg)$': '<rootDir>/lib/asset-transformer.js',
+  },
   moduleFileExtensions: ['js', 'json'],
   moduleDirectories: ['node_modules'],
   // Coverage report

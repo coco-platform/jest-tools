@@ -1,7 +1,7 @@
 {
   "name": "@coco-platform/jest-tools",
   "version": "0.2.0",
-  "description": "A universal seed for nodejs usage.",
+  "description": "A tools presets for jest.",
   "main": "lib/index.js",
   "engines": {
     "node": ">=8.0.0"
