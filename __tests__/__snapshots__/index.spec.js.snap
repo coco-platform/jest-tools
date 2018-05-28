@@ -1,3 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`jest-tools suits should transform status asset 1`] = `"demo.jpg"`;
+exports[`jest-tools suits should process static asset 1`] = `"module.exports = \\"demo.jpg\\";"`;
+
+exports[`jest-tools suits should transform status asset within jest 1`] = `"demo.jpg"`;
