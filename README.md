@@ -1,7 +1,7 @@
 # @coco-platform/jest-tools
 
 ![Build Status](https://img.shields.io/travis/coco-platform/jest-tools/master.svg?style=flat)
-[![Coverage Status](https://coveralls.io/repos/github/coco-platform/jest-tools/badge.svg?branch=master)](https://coveralls.io/github/coco-platform/jest-tools?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/coco-platform/jest-tools/badge.svg?branch=master)](https://coveralls.io/github/coco-platform/jest-tools?branch=master) [![Greenkeeper badge](https://badges.greenkeeper.io/coco-platform/jest-tools.svg)](https://greenkeeper.io/)
 ![Package Dependency](https://david-dm.org/coco-platform/jest-tools.svg?style=flat)
 ![Package DevDependency](https://david-dm.org/coco-platform/jest-tools/dev-status.svg?style=flat)
 
